@@ -20,7 +20,7 @@ Original creative writing: short narratives, microfiction, dialogues, atmospheri
 ### **2. formal_writing.md**
 Formal, structured, and professional writing samples: explanations, analytical passages, clear communication and technical-style texts.
 
-## 👤 About Me
+## About Me
 
 My name is **Alessandro Belotti**.  
 I am an Italian writer and content creator with experience in creative writing, songwriting, narrative design, and structured editorial work. I also hold an academic background in Law from the University of Milan, with a growing specialization in the intersection between **AI, language, and legal frameworks**.
