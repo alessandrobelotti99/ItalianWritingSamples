@@ -1,4 +1,4 @@
-# Italian Writing Samples 🇮🇹✍️
+# Italian Writing Samples 
 A curated collection of Italian writing samples designed for:
 
 - Creative Writing  
