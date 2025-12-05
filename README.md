@@ -12,7 +12,7 @@ All materials are organized to highlight linguistic versatility, clarity, and st
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ### **1. creative_texts.md**
 Original creative writing: short narratives, microfiction, dialogues, atmospheric descriptions, and literary-style texts.
