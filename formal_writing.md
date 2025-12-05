@@ -1,6 +1,6 @@
-### Scrittura formale
--
-Estratto della mia tesi "La proprietà intellettuale nell'era dell'IA: riflessioni tra diritto vigente e prospettive future"
+Scrittura formale
+---
+### Estratto della mia tesi "La proprietà intellettuale nell'era dell'IA: riflessioni tra diritto vigente e prospettive future"
 ---
 
 L’IA agisce come una sintesi della conoscenza collettiva e la logica suggerisce che il futuro non sia quello di un autore soppiantato, bensì di un rapporto di sinergia umano-IA, dove quest’ultima è uno strumento potente ma non sostitutivo della creatività umana. 
