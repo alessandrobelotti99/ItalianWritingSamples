@@ -19,3 +19,20 @@ Original creative writing: short narratives, microfiction, dialogues, atmospheri
 
 ### **2. formal_writing.md**
 Formal, structured, and professional writing samples: explanations, analytical passages, clear communication and technical-style texts.
+
+## 👤 About Me
+
+My name is **Alessandro Belotti**.  
+I am an Italian writer and content creator with experience in creative writing, songwriting, narrative design, and structured editorial work. I also hold an academic background in Law from the University of Milan, with a growing specialization in the intersection between **AI, language, and legal frameworks**.
+
+I combine:
+- **Narrative creativity**  
+- **Linguistic precision and clarity**  
+- **Editing, rewriting, and content curation skills**  
+- **Strong analytical thinking**  
+
+I have written original music, lyrics, stories, and conceptual works requiring stylistic coherence and high attention to detail.
+
+This repository collects a selection of writing samples intended for collaborations in AI, creative content development, and language evaluation.
+
+---
