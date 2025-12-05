@@ -1,7 +1,7 @@
 ### Scrittura formale
 ---
 Estratto della mia tesi "La proprietà intellettuale nell'era dell'IA: riflessioni tra diritto vigente e prospettive future"
----
+
 L’IA agisce come una sintesi della conoscenza collettiva e la logica suggerisce che il futuro non sia quello di un autore soppiantato, bensì di un rapporto di sinergia umano-IA, dove quest’ultima è uno strumento potente ma non sostitutivo della creatività umana. 
 Ci si muoverà, dunque, verso definizioni più sofisticate di autore che tengano conto del contributo umano nella catena creativa, anche se mediato da IA, accostate a normative specifiche che invece restringano la protezione per output totalmente prodotti da software.
 I rischi sono che – come è fisiologico che succeda – diventando l’intelligenza artificiale sempre più sofisticata, il valore economico delle opere umane diminuirà se i consumatori non distinguono o apprezzano la differenza, sia perché ci sarà un eccesso di offerta sul mercato culturale, sia perché i costi di produzione saranno drasticamente abbassati dal fatto che tutto potrà essere generato in pochi secondi.
